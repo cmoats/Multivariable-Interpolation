@@ -1,1 +1,3 @@
-This code lets you generate 3d surfaces based of given points. The 3d Surfaces are not unique and you can create many different surfaces based off user specifications. To view you first must go to https://www.wolfram.com/player/ and download the player and then download the file and open it in the player. Unfortunately, you will not be able to make your own surfaces in the player, to do that you need to get mathematica which is not free :( 
+# Multivariable
+This code lets you generate 3d surfaces based of given points. The 3d Surfaces are not unique and you can create many different surfaces based off user specifications. To view, you can simply look at the multivariable pdf or if you have mathematica you can download the file and open if up there.
+
